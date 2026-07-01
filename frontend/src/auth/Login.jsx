@@ -17,7 +17,7 @@ const Login = () => {
       {/* Left Column: Info Panel */}
       <div className="info-panel">
         <div className="brand-header">
-          <span className="brand-logo">✨</span> MediaHub
+          <span className="brand-logo">✨</span> ClipFlow
         </div>
         
         <div className="info-content">
@@ -31,7 +31,7 @@ const Login = () => {
         </div>
 
         <div className="info-footer">
-          © 2026 MediaHub. All rights reserved.
+          © 2026 ClipFlow. All rights reserved.
         </div>
       </div>
 

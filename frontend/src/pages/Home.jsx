@@ -137,9 +137,9 @@ const Home = () => {
       {/* Footer */}
       <footer className="footer">
         <div className="footer-brand">
-          <span className="footer-logo">✨</span> MediaHub
+          <span className="footer-logo">✨</span> ClipFlow
         </div>
-        <div className="footer-copy">© 2026 MediaHub. All rights reserved.</div>
+        <div className="footer-copy">© 2026 ClipFlow. All rights reserved.</div>
         <div className="footer-links">
           <a href="#privacy">Privacy</a>
           <a href="#terms">Terms</a>
